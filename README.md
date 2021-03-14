@@ -40,4 +40,4 @@ Go on to `http://localhost:3000` and fill in all informations, if you have follo
 
 ---
 
-<b>Enjoy your powerfull application.</b>
+<b>Enjoy your powerfull Application.</b>
