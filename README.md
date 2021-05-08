@@ -27,7 +27,7 @@ Then create a `.env` file and enter the following.
     YOUR_EMAIL=Doctors_email_id@email.com
 ```
 
-make sure that your email doesnt have two step verification
+Make sure that your email doesnt have two step verification
 and make sure that you enebled `less secure apps` option by going to 
 
 <br>
