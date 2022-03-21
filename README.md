@@ -1,4 +1,4 @@
-# Appointment app
+# Appointment-app
 
 This is an application made using node.js, express.js and MongoDB as a database, You can take an appointment, the person who took an appointment receives an email on his appointment and even the doctor receives an email on the appointment taken by the patient
 
