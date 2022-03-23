@@ -13,7 +13,7 @@ the packages used are:
 
 views are shown using ejs(embedded javascript template).
 
-# The procedure to use the app.
+# The procedure to use the-app.
 
 first of all, open the folder in a terminal, and run `npm install` to install all the packages from the internet in order for the application to run. 
 
